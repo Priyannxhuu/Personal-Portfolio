@@ -588,6 +588,10 @@ video {
   width: 100%;
 }
 
+.w-\[60vw\] {
+  width: 60vw;
+}
+
 .max-w-60 {
   max-width: 15rem;
 }
@@ -823,6 +827,10 @@ video {
 
   .md\:w-\[40vw\] {
     width: 40vw;
+  }
+
+  .md\:w-\[\] {
+    width: ;
   }
 
   .md\:max-w-80 {
